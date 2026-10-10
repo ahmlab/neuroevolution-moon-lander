@@ -1,0 +1,8 @@
+gymnasium[box2d]
+deap
+numpy
+matplotlib
+seaborn
+imageio
+imageio-ffmpeg
+pillow
